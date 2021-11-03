@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Top Miles"
+desc: "In order to offer a somewhat different app for fitness fans, a first prototype was developed with TopMiles, which contains some new features and ideas. With this app, for example, random routes for jogging and cycling can be generated intelligently. In addition, the training is much more goal-oriented, as you can select the number of calories, distance and many other goals."
+tags: [Java, Kotlin, SQL]
+img: "assets/topmiles.png"
+redirect_to: https://github.com/niklas-holtz/Topmiles
+---
